@@ -1,0 +1,12 @@
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\bin\Debug\SouthworksDark.dll
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\bin\Debug\SouthworksDark.pdb
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\bin\Debug\SouthworksDark.vsix
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\bin\Debug\extension.vsixmanifest
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\obj\Debug\SouthworksDark.csprojAssemblyReference.cache
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\obj\Debug\_EmptyResource.resources
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\obj\Debug\SouthworksDark.csproj.GenerateResource.cache
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\obj\Debug\SouthworksDark.dll
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\obj\Debug\SouthworksDark.pdb
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\obj\Debug\extension.vsixmanifest
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\obj\Debug\files.json
+C:\Users\EduardoSacco\Desktop\SwVsTheme\SouthworksDark\SouthworksDark\obj\Debug\createTemplateManifests.cache
